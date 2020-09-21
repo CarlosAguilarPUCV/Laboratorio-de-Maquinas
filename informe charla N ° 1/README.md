@@ -1,1 +1,1 @@
-informe charala profesor
+informe charla profesor
