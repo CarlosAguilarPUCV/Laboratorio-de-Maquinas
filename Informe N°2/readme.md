@@ -1,1 +1,1 @@
-Informe cilindros
+Informe MCI y cilindros
